@@ -1,0 +1,27 @@
+GameID,Platform,Genre,Title,Publisher,Purchase Date
+cod02,PlayStation,Action,COD,Activision,01/08/2020
+fifa02,Xbox,Sports,FIFA,EA Sports,01/08/2019
+gta05, PC, Adventure, GTA, Rockstar Games, 02/15/2020
+nba06, Nintendo Switch, Platformer, Super Mario, Nintendo, 03/22/2019
+fifa03, Xbox, Shooter, Halo, Microsoft Studios, 04/10/2021
+rdr07, PlayStation, Action-Adventure, Red Dead Redemption, Rockstar Games, 05/05/2022
+fifa04, PlayStation, Sports, FIFA 2022, EA Sports, 06/12/2022
+cod03, Xbox, Action, Call of Duty: Warzone, Activision, 07/18/2021
+rdr08, PC, Action-Adventure, Red Dead Redemption 2, Rockstar Games, 08/25/2020
+gta06, PlayStation, Adventure, Grand Theft Auto VI, Rockstar Games, 09/30/2022
+nba07, Nintendo Switch, Sports, NBA 2K23, 2K Sports, 10/11/2021
+fifa05, Xbox, Sports, FIFA 2023, EA Sports, 11/28/2022
+cod04, PlayStation, Action, Call of Duty: Vanguard, Activision, 12/05/2021
+rdr09, PC, Action-Adventure, Red Dead Online, Rockstar Games, 01/15/2023
+gta07, Xbox, Adventure, Grand Theft Auto VII, Rockstar Games, 02/20/2023
+nba08, Nintendo Switch, Sports, NBA 2K24, 2K Sports, 03/03/2022
+fifa06, PlayStation, Sports, FIFA 2024, EA Sports, 04/22/2023
+cod05, Xbox, Action, Call of Duty: Black Ops Cold War, Activision, 05/08/2022
+rdr10, PC, Action-Adventure, Red Dead Redemption 3, Rockstar Games, 06/19/2023
+gta08, PlayStation, Adventure, Grand Theft Auto VIII, Rockstar Games, 07/24/2022
+nba09, Nintendo Switch, Sports, NBA 2K25, 2K Sports, 08/01/2021
+fifa07, Xbox, Sports, FIFA 2025, EA Sports, 09/14/2022
+cod06, PlayStation, Action, Call of Duty: Modern Warfare, Activision, 10/30/2020
+rdr11, PC, Action-Adventure, Red Dead Redemption 4, Rockstar Games, 11/08/2021
+gta09, Xbox, Adventure, Grand Theft Auto IX, Rockstar Games, 12/13/2022
+nba10, Nintendo Switch, Sports, NBA 2K26, 2K Sports, 01/02/2023
